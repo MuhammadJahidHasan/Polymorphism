@@ -1,0 +1,13 @@
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/bin/Debug/netcoreapp3.1/Polymorphisom
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/bin/Debug/netcoreapp3.1/Polymorphisom.deps.json
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/bin/Debug/netcoreapp3.1/Polymorphisom.runtimeconfig.json
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/bin/Debug/netcoreapp3.1/Polymorphisom.runtimeconfig.dev.json
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/bin/Debug/netcoreapp3.1/Polymorphisom.dll
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/bin/Debug/netcoreapp3.1/Polymorphisom.pdb
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.csprojAssemblyReference.cache
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.AssemblyInfoInputs.cache
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.AssemblyInfo.cs
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.csproj.CoreCompileInputs.cache
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.dll
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.pdb
+/media/jahid_hasan/Software/VisualStudio Project/ConsoleProject/Polymorphisom/obj/Debug/netcoreapp3.1/Polymorphisom.genruntimeconfig.cache
